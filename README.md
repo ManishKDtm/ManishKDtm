@@ -1,74 +1,61 @@
-<h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">🚀 Electronics & Communication Engineer | 🤖 IoT Enthusiast | 🧠 ML Explorer | 💡 Final Year Innovator</h3>
+<h1 align="center">Hi 👋, I'm Manish Kumar D</h1>
+<h3 align="center">🚀 Passionate ECE Innovator | 🔬 IoT + ML Explorer | 💻 Hardware-Software Integrator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=60&lines=Turning+Ideas+into+Innovations;Engineering+the+future+with+Code+%26+Circuits" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=60&lines=Engineering+Impact+through+Electronics;Building+Smart+Systems+for+Smart+World" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Tech Toolbox
-
-#### 🚀 Domains
-- 🛡️ Embedded Systems & Microcontrollers
-- 🌐 IoT (ESP32, Arduino, NodeMCU, Blynk, MQTT, Firebase)
-- 🤖 Machine Learning (Python, Scikit-Learn, TensorFlow)
-- 📱 App Dev for IoT (Flutter + Firebase + Bluetooth)
-- 🧠 Signal Processing | 🛰️ Wireless Communication
-
-#### 🧰 Tools & Languages
-<p>
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
+### 📍 Location: Kolkata, India  
+🔭 Currently working on: `IoT-integrated safety & surveillance systems`  
+🌱 Learning: `Edge AI`, `ESP32-CAM`, `Cloud-integrated ML deployment`  
+💬 Ask me about: Embedded systems, Blynk, Firebase, ML models  
+📫 Reach me at: **dmanishkumar093@gmail.com**  
 
 ---
 
-### 📂 Highlight Projects
+### 💡 Featured Projects
 
-| Project | Domain | Highlights |
-|--------|--------|-----------|
-| 🔐 [Smart Helmet for Accident Detection](https://github.com/yourusername/smart-helmet-esp32) | IoT + Embedded | MPU6050, ESP32, GSM, GPS, Firebase |
-| 🧬 [Portable Disease Detector](https://github.com/yourusername/portable-ml-device) | ML + Biomedical | ML model on Raspberry Pi + Tkinter GUI |
-| 💧 [IoT Water Quality Monitor](https://github.com/yourusername/water-quality-iot) | IoT + Sensors | TDS + pH sensors, ESP8266, Blynk |
-| 🕵️‍♂️ [Real-time Object Detection System](https://github.com/yourusername/iot-surveillance-ai) | ML + IoT + CV | OpenCV, ESP32-CAM, Firebase alerts |
-| 🔊 [Voice Controlled Home Automation](https://github.com/yourusername/voice-home-iot) | NLP + IoT | Google Assistant + Firebase + Relay Modules |
+| 📌 Project | Description | Tech Stack |
+|-----------|-------------|------------|
+| 🔍 [GPS-Based Smart Explosive Detection](https://github.com/ManishKDtm/GPS-Based-Smart-Explosive-Detection-Unit-with-Admin-Portal-Integration) | Smart embedded system to detect and report explosives with GPS & admin portal | ESP32, Firebase, HTML, JS |
+| 😀 [Facial Expression Detection](https://github.com/ManishKDtm/facial-expression-detection) | Real-time face emotion recognition using OpenCV and deep learning | Python, OpenCV, Keras, CNN |
+| 🔌 [IoT School-Level Projects](https://github.com/ManishKDtm/IOT_based_school-_level_projects) | Beginner to intermediate IoT circuits for learning & demos | Arduino, C++, Sensors |
 
-> 👨‍🔬 All projects are well-documented with schematics, simulation files, code, and deployment guides.
+> 📦 More innovative projects with real-time intelligence and hardware integration coming soon!
 
 ---
 
-### 🏆 Achievements & Hackathons
+### 🧠 Skills & Tech Stack
 
-- 🥇 Winner - **IEEE IoT Challenge 2024** (Smart Infrastructure System)
-- 🧠 Finalist - **Texas Instruments Innovation Challenge**
-- 🛠️ Contributor - **Open Hardware Initiative for IoT**
+**Hardware & IoT**  
+`ESP32 / ESP8266` • `Arduino` • `Sensors (pH, TDS, Gas, GPS)` • `Relay & Actuators`
+
+**Software & Tools**  
+`C / C++` • `Python` • `Firebase` • `OpenCV` • `Blynk` • `Proteus / Fritzing` • `Flutter (basic)` • `ML (Keras, Sklearn)`
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManishKDtm&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishKDtm&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🔗 Let's Connect!
+### 📬 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/ManishKDtm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:dmanishkumar093@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/manish-kd-23b91a254"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
