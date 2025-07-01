@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manish Kumar D</h1>
+<h1 align="center">Hi 👋, I'm Manish KD</h1>
 <h3 align="center">🚀 Passionate ECE Innovator | 🔬 IoT + ML Explorer | 💻 Hardware-Software Integrator</h3>
 
 <p align="center">
