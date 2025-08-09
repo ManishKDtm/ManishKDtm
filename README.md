@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="font-size: 36px; color: #00F7FF; text-shadow: 0 0 10px #00F7FF, 0 0 20px #00F7FF, 0 0 30px #00F7FF;">Hi 👋, I'm Manish KD</span>
+  <span style="font-size: 48px; color: #00F7FF; text-shadow: 0 0 15px #00F7FF, 0 0 30px #00F7FF, 0 0 45px #00F7FF, 0 0 60px #00F7FF, 0 0 75px #00F7FF;">Hi 👋, I'm Manish KD</span>
 </h1>
 <h3 align="center">🚀 Passionate ECE Innovator | 🔬 IoT + ML Explorer | 💻 Hardware-Software Integrator</h3>
 
