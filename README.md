@@ -1,5 +1,7 @@
 <h1 align="center">
-  <span style="font-size: 48px; color: #00F7FF; text-shadow: 0 0 15px #00F7FF, 0 0 30px #00F7FF, 0 0 45px #00F7FF, 0 0 60px #00F7FF, 0 0 75px #00F7FF;">Hi 👋, I'm Manish KD</span>
+  <span style="font-size: 60px; background: #FF0000; color: white; padding: 20px; border-radius: 10px;">
+    Hi 👋, I'm <span style="color: #FF6347;">Manish KD</span>
+  </span>
 </h1>
 <h3 align="center">🚀 Passionate ECE Innovator | 🔬 IoT + ML Explorer | 💻 Hardware-Software Integrator</h3>
 
@@ -56,6 +58,14 @@
   <a href="https://github.com/ManishKDtm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:dmanishkumar093@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/manish-kd-23b91a254"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧑‍💻 Viewer Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManishKDtm&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
 ---
