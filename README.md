@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Manish KD</h1>
+<h1 align="center">
+  <span style="font-size: 36px; color: #00F7FF; text-shadow: 0 0 10px #00F7FF, 0 0 20px #00F7FF, 0 0 30px #00F7FF;">Hi 👋, I'm Manish KD</span>
+</h1>
 <h3 align="center">🚀 Passionate ECE Innovator | 🔬 IoT + ML Explorer | 💻 Hardware-Software Integrator</h3>
 
 <p align="center">
@@ -22,6 +24,8 @@
 | 🔍 [GPS-Based Smart Explosive Detection](https://github.com/ManishKDtm/GPS-Based-Smart-Explosive-Detection-Unit-with-Admin-Portal-Integration) | Smart embedded system to detect and report explosives with GPS & admin portal | ESP32, Firebase, HTML, JS |
 | 😀 [Facial Expression Detection](https://github.com/ManishKDtm/facial-expression-detection) | Real-time face emotion recognition using OpenCV and deep learning | Python, OpenCV, Keras, CNN |
 | 🔌 [IoT School-Level Projects](https://github.com/ManishKDtm/IOT_based_school-_level_projects) | Beginner to intermediate IoT circuits for learning & demos | Arduino, C++, Sensors |
+| 🌍 [pH Monitoring System](https://github.com/ManishKDtm/ph_monitoring.github.io) | A real-time water quality monitoring system to track pH levels with IoT | ESP32, Firebase, HTML, JavaScript |
+| 💖 [FF Likes](https://github.com/ManishKDtm/ff_likes) | A project to count and display Facebook likes using the Facebook API | Python, Facebook API |
 
 > 📦 More innovative projects with real-time intelligence and hardware integration coming soon!
 
