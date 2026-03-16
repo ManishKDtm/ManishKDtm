@@ -18,7 +18,7 @@
 
 🔬 Passionate about **Embedded Systems, IoT and Machine Learning**
 
-⚡ I love building **real-world hardware systems connected to the cloud**
+⚡ I build **real-world hardware systems connected to the cloud**
 
 🧠 Currently exploring
 
@@ -73,31 +73,60 @@ Features
 - Firebase cloud logging  
 - Admin monitoring dashboard  
 
-Repository
-
+🔗 Repository  
 https://github.com/ManishKDtm/GPS-Based-Smart-Explosive-Detection-Unit-with-Admin-Portal-Integration
 
 ---
 
 # 📦 Project Portfolio
 
-### IoT School Projects
-https://github.com/ManishKDtm/IOT_based_school-_level_projects
+### 🤖 Landmine Detection Rover
 
-### Facial Expression Detection
-https://github.com/ManishKDtm/facial-expression-detection
+Autonomous rover capable of detecting landmines using sensors.
 
-### PH Monitor System
-https://github.com/ManishKDtm/PHMonitor
-
-### PH Monitoring Web Dashboard
-https://github.com/ManishKDtm/ph_monitoring.github.io
-
-### Landmine Detection Rover
 https://github.com/ManishKDtm/landmine_rover
 
-### FF Likes
+---
+
+### 😀 Facial Expression Detection
+
+Real-time emotion recognition using computer vision and deep learning.
+
+https://github.com/ManishKDtm/facial-expression-detection
+
+---
+
+### 🌍 PH Monitoring Dashboard
+
+Cloud dashboard for visualizing water pH sensor data.
+
+https://github.com/ManishKDtm/ph_monitoring.github.io
+
+---
+
+### ❤️ FF Likes
+
+Python project that retrieves Facebook likes using Facebook API.
+
 https://github.com/ManishKDtm/ff_likes
+
+---
+
+# 🌍 Open Source Contributions
+
+### 🔌 IoT School Projects Library
+
+Collection of IoT circuits and sensor projects for beginners and students.
+
+https://github.com/ManishKDtm/IOT_based_school-_level_projects
+
+---
+
+### 💧 PH Monitor Library
+
+ESP32 based water pH monitoring system with cloud integration.
+
+https://github.com/ManishKDtm/PHMonitor
 
 ---
 
