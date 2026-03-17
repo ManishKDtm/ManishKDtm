@@ -130,16 +130,17 @@ https://github.com/ManishKDtm/PHMonitor
 
 ---
 
-### 💧 ESPSmartDash Library
+###  ESPSmartDash Library
 
-Automatic web dashboard generation
-Toggle controls for digital devices (LEDs, relays, buzzers)
-Slider controls for PWM outputs (motors, LED brightness)
-Live sensor gauges with real-time auto-update
-Fully offline, no cloud or external server required
-Simple API: just define toggles, sliders, and gauges
+Automatic web dashboard generation.
+Toggle controls for digital devices (LEDs, relays, buzzers).
+Slider controls for PWM outputs (motors, LED brightness).
+Live sensor gauges with real-time auto-update.
+Fully offline, no cloud or external server required.
+Simple API: just define toggles, sliders, and gauges.
 
 https://github.com/ManishKDtm/ESPSmartDash
+
 ---
 
 # 📊 GitHub Analytics
