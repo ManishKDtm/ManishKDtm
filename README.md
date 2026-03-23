@@ -178,9 +178,7 @@ https://github.com/ManishKDtm/ESPSmartDash
 # 🏆 Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ManishKDtm&theme=tokyonight&row=1&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ManishKDtm&theme=tokyonight&column=-1&margin-w=15&margin-h=15" />
 </p>
 
 ---
